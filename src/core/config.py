@@ -1,0 +1,1 @@
+# TODO: змінні середовища (DATABASE_URL, SECRET_KEY, SMTP_*)

@@ -1,0 +1,1 @@
+# TODO: Pydantic схеми для Book (BookCreate, BookUpdate, BookResponse)

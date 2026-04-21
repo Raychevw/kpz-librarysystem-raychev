@@ -1,0 +1,1 @@
+# TODO: Pydantic схеми для Borrowing (BorrowRequest, BorrowingResponse)

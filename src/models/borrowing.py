@@ -1,0 +1,1 @@
+# TODO: модель Borrowing (id, user_id, book_id, borrow_date, return_date)

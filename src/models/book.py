@@ -1,0 +1,1 @@
+# TODO: модель Book (id, title, author, isbn, is_available)

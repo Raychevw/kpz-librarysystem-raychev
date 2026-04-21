@@ -1,2 +1,1 @@
-class User:
-   pass
+# TODO: модель User (id, email, password_hash, role)
